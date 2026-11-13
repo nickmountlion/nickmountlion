@@ -1,8 +1,8 @@
 # Cloud Security Architect | Zero Trust · DevSecOps · AI Security Automation | AWS · Azure · GCP | 15+ Years
 
-Security architecture and engineering across cloud environments, designing resilient systems and building in-house security functions.
-AI agent security and secure SDLC, enforcing tool-scope least privilege, app registrations, and automated CI/CD guardrails.
-Controls-as-code and continuous monitoring to turn security policies into verifiable, tamper-evident evidence.
+I started in theatre, and it shows: I can brief a board in plain language, then design, build, harden and prove the control with engineers, admins and SOC analysts.
+15+ years across banking, payments, energy, fintech and education: building security functions from zero, running cutovers that cannot fail, and shipping tooling that proves controls work.
+Creative, hands-on and automation-first: AI-assisted security workflows, secure SDLC, and least-privilege design for AI agents.
 
 Full portfolio: [https://nickmountlion.github.io](https://nickmountlion.github.io)
 
