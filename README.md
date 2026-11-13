@@ -2,9 +2,9 @@
 
 **Cloud Security Architect** · Buenos Aires, Argentina · remote, US time zones · English and Spanish (native)
 
-I design cloud security architecture, build in-house security functions, and write the tooling that proves controls work. 15+ years across fintech, banking, energy and SaaS. OSCP, GXPN, OSWP, KLCP and CEH certified.
+I design cloud security architecture, build in-house security functions, and write the tooling that proves controls work. 15+ years across fintech, banking, energy and SaaS.
 
-[Portfolio](https://nickmountlion.github.io) · [LinkedIn](https://www.linkedin.com/in/fnmontefalcone) · Open to remote contract or full-time roles
+[Portfolio](https://nickmountlion.github.io) · [LinkedIn](https://www.linkedin.com/in/fnmontefalcone) · Open to remote roles
 
 ## Selected work
 
