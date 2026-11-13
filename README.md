@@ -1,4 +1,4 @@
-# Cloud security architect | OSCP
+# Cloud Security Architect | Zero Trust · DevSecOps · AI Security Automation | AWS · Azure · GCP | OSCP · GXPN
 
 Security architecture and engineering across cloud environments, designing resilient systems and building in-house security functions.
 AI agent security and secure SDLC, enforcing tool-scope least privilege, app registrations, and automated CI/CD guardrails.
